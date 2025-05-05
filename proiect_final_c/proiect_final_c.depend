@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746444657 source:d:\facultate\pp\proiect_final_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
